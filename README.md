@@ -1,4 +1,4 @@
-# Get VT eBird Histograms
+# Get VT eBird Barcharts
 
 This tool gets the eBird barchart data from eBird, and converts it into a JSON file, split by county, which shows the abundance for each week of a month (generalized into four weeks) of every species ever seen in that county.
 
